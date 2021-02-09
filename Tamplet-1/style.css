@@ -1,0 +1,24 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+div {
+  border: 1px solid black;
+  margin-top: 5px;
+  padding: 20px;
+}
+
+#left {
+  padding: 0%;
+  border: none;
+  float: right;
+}
+
+#right {
+  padding: 0%;
+  border: none;
+  float: left;
+}
